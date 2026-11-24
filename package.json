@@ -1,0 +1,11 @@
+{
+  "name": "dmart-ebitda-case",
+  "private": true,
+  "description": "Builds the case deck with pptxgenjs from build/case.json",
+  "scripts": {
+    "deck": "node deck/build_deck.js"
+  },
+  "devDependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
