@@ -1,0 +1,4 @@
+openpyxl==3.1.5
+pycel==1.0b30
+python-pptx==1.0.2
+pytest==9.1.1

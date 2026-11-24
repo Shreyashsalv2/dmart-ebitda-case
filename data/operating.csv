@@ -1,0 +1,8 @@
+metric,fy25,fy26,unit,fy25_source,fy26_source
+stores_at_year_end,415,500,stores,nse_update_q4fy25,press_release_fy26
+retail_business_area_at_year_end,17.2,20.6,million sq ft,annual_report_fy25,press_release_fy26
+stores_added_in_year,,85,stores,,press_release_fy26
+stores_added_in_q4,,58,stores,,press_release_fy26
+reported_ebitda,,5255,INR crore,,press_release_fy26
+reported_ebitda_growth,,15.7,percent,,press_release_fy26
+reported_ebitda_margin,7.9,7.8,percent,press_release_fy26,press_release_fy26

@@ -1,0 +1,8 @@
+build/
+__pycache__/
+.pytest_cache/
+node_modules/
+.env*
+.vercel
+~$*
+.DS_Store

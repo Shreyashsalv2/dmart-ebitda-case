@@ -1,0 +1,12 @@
+line,fy25_reported,fy25_unit,fy26_reported,fy26_unit,fy25_source,fy26_source
+revenue_from_operations,577898100000,INR,6696803,INR lakh,nse_fy25,nse_fy26
+other_income,1740200000,INR,12802,INR lakh,nse_fy25,nse_fy26
+purchases_of_stock_in_trade,506983200000,INR,5821611,INR lakh,nse_fy25,nse_fy26
+changes_in_inventories,-10820200000,INR,-82499,INR lakh,nse_fy25,nse_fy26
+employee_benefit_expense,10132600000,INR,135242,INR lakh,nse_fy25,nse_fy26
+finance_costs,577500000,INR,12993,INR lakh,nse_fy25,nse_fy26
+depreciation_and_amortisation,7758200000,INR,93481,INR lakh,nse_fy25,nse_fy26
+other_expenses,26175300000,INR,296927,INR lakh,nse_fy25,nse_fy26
+profit_before_tax,38831700000,INR,431850,INR lakh,nse_fy25,nse_fy26
+total_tax_expense,9559900000,INR,109457,INR lakh,nse_fy25,nse_fy26
+profit_after_tax,29271800000,INR,322393,INR lakh,nse_fy25,nse_fy26
